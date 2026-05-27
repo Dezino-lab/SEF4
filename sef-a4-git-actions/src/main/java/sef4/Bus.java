@@ -1,4 +1,4 @@
-package org.rmit.edu.au;
+package sef4;
 
 public class Bus {
     private String busID;
